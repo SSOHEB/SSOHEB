@@ -3,15 +3,16 @@
 Building backend systems and experimenting with distributed
 and AI-powered infrastructure.
 
-Currently focused on Java, Spring Boot, distributed systems fundamentals,
-and backend infrastructure engineering.
+Currently focused on backend engineering with Java and Spring,
+while exploring Go for cloud-native and infrastructure tooling.
 
 ---
 
 ## Stack
 
-Java · Spring Boot · Spring Security · Spring Data JPA
-PostgreSQL · Redis · RabbitMQ
+Java · Go · Python  
+Spring Boot · Spring Security · Spring Data JPA  
+PostgreSQL · Redis · RabbitMQ  
 Docker · Linux · Git
 
 ---
