@@ -1,14 +1,17 @@
 ## Soheb
 
-Backend engineer focused on Java and the Spring ecosystem.
-Interested in service design, distributed systems, and database internals.
+Building backend systems and experimenting with distributed
+and AI-powered infrastructure.
+
+Currently focused on Java, Spring Boot, distributed systems fundamentals,
+and backend infrastructure engineering.
 
 ---
 
 ## Stack
 
-Java · Spring Boot · Spring Security · Spring Data JPA  
-PostgreSQL · Redis · RabbitMQ  
+Java · Spring Boot · Spring Security · Spring Data JPA
+PostgreSQL · Redis · RabbitMQ
 Docker · Linux · Git
 
 ---
