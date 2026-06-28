@@ -1,4 +1,4 @@
-# Hi, I'm Soheb✌️
+# Hi, I'm Soheb
 
 Computer Science Student | Backend Engineer in Progress
 
@@ -11,9 +11,11 @@ My goal isn't to collect technologies. It's to build strong engineering fundamen
 
 ## Toolkit
 
-- **Go** — actively learning through production code
-- **Python** — FastAPI, backend services
-- **TypeScript** — Node.js backend
-- **Linux** — system fundamentals
-- **Git & GitHub** — version control, collaborative workflow
-- **Docker** — containers, local development
+| | |
+|---|---|
+| **Go** | actively learning through production code |
+| **Python** | FastAPI, backend services |
+| **TypeScript** | Node.js backend |
+| **Linux** | system fundamentals |
+| **Git & GitHub** | version control, collaborative workflow |
+| **Docker** | containers, local development |
