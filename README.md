@@ -1,36 +1,43 @@
-## Soheb
+# [S SOHEB]
 
-Building backend systems and experimenting with distributed
-and AI-powered infrastructure.
+**Computer Science Student | Aspiring Backend Engineer**
 
-Currently focused on backend engineering with Java and Spring,
-while exploring Go for cloud-native and infrastructure tooling.
+Preparing to apply for LFX Mentorship with the OpenTelemetry Collector.
 
----
+Currently: forked the repo, setting up local dev environment, reading the
 
-## Stack
-
-Java · Go · Python  
-Spring Boot · Spring Security · Spring Data JPA  
-PostgreSQL · Redis · RabbitMQ  
-Docker · Linux · Git
+codebase, finding my first issues to work on.
 
 ---
 
-## Interests
+## What I'm Building Toward
 
-- How systems handle failure — retries, dead letters, consistency guarantees
-- Database internals — indexing, transactions, query execution
-- Observability — what good logging and tracing actually looks like in production
-- Distributed systems — the problems that appear only at scale
+- First contributions to OpenTelemetry Collector merged before mid-July
 
----
+- A production-grade Go backend service (REST API or gRPC)
 
-## Open Source
-
-Reading through Spring Framework, Spring Security, and Hibernate source.
-Working toward meaningful contributions in the Java/Spring ecosystem.
+- LFX Mentorship — CNCF, OpenTelemetry track
 
 ---
 
-shaykhsuhaib7@gmail.com · [LinkedIn](https://www.linkedin.com/in/s-soheb-292a3533b/)
+## Technical Skills
+
+- **Go** — learning seriously, building toward production-grade work
+
+- **Python / FastAPI** — where most of my backend experience lives
+
+- **TypeScript** — backend with Node.js
+
+- **Linux** — command line, comfortable with systems fundamentals
+
+- **Git / GitHub** — version control, PR workflow
+
+---
+
+## Background
+
+Computer Science student who wants to be a backend engineer.
+
+Not chasing frameworks — chasing fundamentals.
+
+Open source is how I'm doing that.
