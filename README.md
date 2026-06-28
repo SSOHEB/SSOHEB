@@ -1,43 +1,47 @@
-# [S SOHEB]
+# Hi, I'm Sohaib
 
-**Computer Science Student | Aspiring Backend Engineer**
+**Computer Science Student | Backend Engineer in Progress**
 
-Preparing to apply for LFX Mentorship with the OpenTelemetry Collector.
-
-Currently: forked the repo, setting up local dev environment, reading the
-
-codebase, finding my first issues to work on.
+I build backend systems and study production-grade open source software.
+Currently learning Go by reading the OpenTelemetry Collector — following its
+architecture, understanding how the pieces fit, and preparing to contribute.
 
 ---
 
-## What I'm Building Toward
+## How I Learn
 
-- First contributions to OpenTelemetry Collector merged before mid-July
+I don't move fast across many technologies.
+I pick something serious, stay with it, and go deep until I understand how it works.
 
-- A production-grade Go backend service (REST API or gRPC)
+Right now that's Go and the OpenTelemetry Collector.
+Before that it was Python and FastAPI. Before that, TypeScript.
 
-- LFX Mentorship — CNCF, OpenTelemetry track
+My goal isn't to collect technologies — it's to build strong engineering fundamentals.
 
 ---
 
-## Technical Skills
+## Current Toolkit
 
-- **Go** — learning seriously, building toward production-grade work
+- **Go** — actively learning through production code
+- **Python** — FastAPI, backend services
+- **TypeScript** — Node.js backend
+- **Linux** — command-line development, system fundamentals
+- **Git & GitHub** — version control, reading large codebases, collaborative workflow
+- **Docker** — local development and containers
 
-- **Python / FastAPI** — where most of my backend experience lives
+---
 
-- **TypeScript** — backend with Node.js
+## Why the OpenTelemetry Collector
 
-- **Linux** — command line, comfortable with systems fundamentals
+It's a mature, well-engineered Go codebase maintained by experienced engineers.
+The architecture — receivers, processors, exporters, pipelines — reflects how
+real production infrastructure is designed and operated.
 
-- **Git / GitHub** — version control, PR workflow
+That's exactly the environment I want to learn in.
 
 ---
 
 ## Background
 
-Computer Science student who wants to be a backend engineer.
-
-Not chasing frameworks — chasing fundamentals.
-
-Open source is how I'm doing that.
+Computer Science student. I want to understand systems deeply, not just use them.
+Open source is where that kind of engineering happens.
