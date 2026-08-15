@@ -13,16 +13,6 @@
 
 **I use first-principles thinking to break down problems, connect knowledge, and understand how things work from the ground up.**
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="./image2.png" width="100%" alt="Learn, Build, Contribute, Grow">
-
-</div>
-
 <br>
 
 ## **Skills & Tools**
