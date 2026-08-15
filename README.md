@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./image1.png" width="100%" alt="Greetings">
+<img src="./imge1.png" width="100%" alt="Greetings">
 
 </div>
 
